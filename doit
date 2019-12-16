@@ -1,0 +1,7 @@
+git commit -a
+git push -u origin master
+
+
+ny fil
+git add xxx
+git commit xxx
